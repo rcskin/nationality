@@ -1,0 +1,13 @@
+body {
+  background-color: aquamarine;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+img{
+  height: 200px;
+  width: 400px;
+}
+
